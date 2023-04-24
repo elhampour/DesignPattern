@@ -1,0 +1,7 @@
+﻿delegates the object duplication or cloning process to the actual objects that are being cloned
+prototype registry stores frequently accessed prototypes
+prototype registry a centrlized place, a catalog for the prototypes you use and clone the most
+Use the Prototype Pattern when your code should not depend on the concrete classes of the objects that you need to copy or duplicate
+Will clone objects whithout	coupling them to theire concrete classes
+will get rid of  repeated intilization code
+will save resources and time

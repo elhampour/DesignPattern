@@ -1,0 +1,8 @@
+﻿Allows you to produce families of related objects without specifiyng theire concrete classes
+A Sigle facoty is not enough
+hence we should scale-up the implmentation to use the abstract factory design pattern
+Explicitly declare interfaces for each distinct product we have 
+Use it when your code needs to work with various families of related products
+many designs start by using the factory method pattern and later evolve toward an Abstract factroy Design
+follows the open-cloesed and single responsiblit principles
+centrlizes the product creation code in one place in the program

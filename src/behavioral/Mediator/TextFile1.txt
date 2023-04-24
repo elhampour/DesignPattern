@@ -1,0 +1,2 @@
+﻿Defines an object that encapsliuates how a set of other objects interact with one another
+restrict direct communication between objects and forces them to collaboaret via a  meditaor, hence reducing  the depecneites betwenne them

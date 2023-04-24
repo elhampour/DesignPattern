@@ -1,0 +1,4 @@
+﻿provcides a simplied  interface to a libaray, a framwrodk, or any other comlex set of classes
+
+put all repeatable logic to a class and name it facade
+

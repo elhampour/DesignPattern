@@ -1,0 +1,10 @@
+﻿produces different types and representations of an object using the same construction process
+initialization of the many fields of this object is usually buried inside a monstrous constrcutor
+extract the object construction or creation code out of its own class and move it to seperate objects called builders
+Director defines the order in which we should call the constrcution steps so that we can reuse specific configurations of the products we are building
+Directors are optional
+Director hides the details of the product construction from the clent code
+Builder Pattern seperate the construciton of an object from its representation
+Builder Pattern create a builder class contianng the same fileds of the object you  need created
+Builder Pattern add several setter-methods for these fileds, and a build method responsible for creating the obecjt
+Builder Pattern think aboyut creaitng a direcotr if the same creation code is used to create serverl objects

@@ -1,0 +1,10 @@
+﻿Splits a large class into two speerate hierarchies which can be developed independently
+these two hierarchies are refferned to as abstraction and implmenmetaion
+the abstractuion is a high lvel contol layer 
+it delegate the work to the implmentiaon lkayer
+
+the problem   : we trying to extend the pizza class in two independent dimentions
+the type of pizza
+the way we are preparing thew pizaa
+
+switrch from inherritance to compostion

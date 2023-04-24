@@ -1,0 +1,1 @@
+﻿lets you attach new behaviours to an objcet by placing this object inisde a special wrapper that contains these behaviours

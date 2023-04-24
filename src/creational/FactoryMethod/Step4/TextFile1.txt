@@ -1,0 +1,6 @@
+﻿The factory pattern method relies heavily on inherritance.
+lets creator-subclasses decide which class to instantiate
+use factory method if you have no idea of the exact types of the objects your code will work with
+Factory pattern makes it easy to extend the product construction code independently from the rest of the application
+factorh mtheod pattern allows introducing new products witout breking existing code
+Centrlizes the product creaton code in one place in the program

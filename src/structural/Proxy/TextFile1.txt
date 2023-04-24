@@ -1,0 +1,2 @@
+﻿provides a substitue for another object and controls access to tthat object, allwoing you yo perform sometjing before or after the request reaches the original object.
+Cache is proxy pattern 
